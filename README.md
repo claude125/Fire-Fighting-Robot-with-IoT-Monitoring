@@ -2,6 +2,7 @@
 
 ![Fire Fighting Robot](robotic.jpg)
 
+
 An intelligent robotic system designed to automatically detect and extinguish fire while providing real-time monitoring through an IoT platform.
 
 The robot uses **NodeMCU (ESP8266)** with flame sensors to detect fire and automatically activate a water pump to suppress the fire. The system also publishes environmental data and robot status to an **IoT dashboard for remote monitoring**.
