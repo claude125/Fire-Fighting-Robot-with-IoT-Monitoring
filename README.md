@@ -23,7 +23,14 @@
 
 Fire accidents strike without warning and routinely force firefighters into deadly environments. This project answers that challenge with an **autonomous robotic system** that detects, responds to, and suppresses fires — without putting a single human life at risk.
 
-![Fire Fighting Robot](robotic.JPG)
+## 🤖 Fire Fighting Robot Images
+
+<p align="center">
+  <img src="robotic.JPG" width="300"/>
+  <img src="uno.JPG" width="300"/>
+  <img src="due.JPG" width="300"/>
+  <img src="tree.JPG" width="300"/>
+</p>
 
 The robot uses a **NodeMCU (ESP8266)** paired with flame sensors to detect fire and immediately activate a water pump for suppression, while simultaneously publishing live status data to an **IoT monitoring dashboard** for remote situational awareness.
 
@@ -166,6 +173,9 @@ smart-fire-fighting-robot/
 │
 ├── 📂 images/
 │   ├── robotic.JPG            # Robot photo
+│   ├── uno.JPG                # Robot photo 2
+│   ├── due.JPG                # Robot photo 3
+│   ├── tree.JPG               # Robot photo 4
 │   └── architecture.png       # System diagram
 │
 └── 📄 README.md
