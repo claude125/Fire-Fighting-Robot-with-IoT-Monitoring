@@ -1,6 +1,6 @@
 # Smart Fire Fighting Robot with IoT Monitoring
 
-![Fire Fighting Robot](robotic.jpg)
+![Fire Fighting Robot](robotic.JPG)
 
 
 An intelligent robotic system designed to automatically detect and extinguish fire while providing real-time monitoring through an IoT platform.
