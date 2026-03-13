@@ -33,16 +33,6 @@ Flame Sensors → NodeMCU Controller → Fire Detection Logic → Water Pump Act
 
 # System Architecture Diagram
 
-```mermaid
-flowchart LR
-
-A[Flame Sensors] --> B[NodeMCU ESP8266 Controller]
-B --> C[Fire Detection Algorithm]
-C --> D[Water Pump System]
-B --> E[Water Level Sensor]
-B --> F[IoT Cloud Platform]
-F --> G[Monitoring Dashboard]
-F --> H[Alert Notifications]
 
 Key Features
 Automatic Fire Detection
