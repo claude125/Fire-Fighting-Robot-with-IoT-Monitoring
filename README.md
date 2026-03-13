@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:1a0500,100:ff4500&height=200&section=header&text=Smart%20Fire%20Fighting%20Robot&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IoT-Powered%20Autonomous%20Fire%20Detection%20%26%20Suppression%20System&descSize=15&descAlignY=58&animation=fadeIn)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1500&color=FF6B35&center=true&vCenter=true&width=700&height=40&lines=🔥+Autonomous+Fire+Detection+%26+Suppression;📡+Real-Time+IoT+Monitoring+Dashboard;🤖+NodeMCU+ESP8266+Powered+Robot;💧+Automatic+Water+Pump+Activation;🛡️+Protecting+Lives+%7C+Inspired+by+Rusumo+2018)](https://git.io/typing-svg)
 
